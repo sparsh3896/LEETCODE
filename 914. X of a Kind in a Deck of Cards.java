@@ -21,7 +21,7 @@ class Solution {
 
 //here we use gcd to compute the answer
 //we create a hash map and assign the values and their occurence in the map
-and we run a loop where we get the ocuurence of a no and then we compute the gcd btw the occurence and the variable min whose intitial value is zero
+//and we run a loop where we get the ocuurence of a no and then we compute the gcd btw the occurence and the variable min whose intitial value is zero
 //this gcd is stored in the variable min
 //after computing all the gcd with occurences and min we finally reach toh the greatest common divisor which can divide all the occurences 
 //therefore it is the ans
